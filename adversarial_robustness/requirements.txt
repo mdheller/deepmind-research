@@ -9,7 +9,7 @@ jaxline==0.0.3
 ml-collections==0.1.0
 numpy==1.19.5
 optax==0.0.8
-tensorflow==2.5.0
+tensorflow==2.11.1
 tensorflow-datasets==4.3.0
 torch==1.9.0
 torchvision==0.10.0
@@ -18,7 +18,7 @@ tqdm==4.61.1
 astunparse==1.6.3
 attrs==21.2.0
 cachetools==4.2.2
-certifi==2021.5.30
+certifi==2024.7.4
 chardet==4.0.0
 contextlib2==21.6.0
 dill==0.3.4
